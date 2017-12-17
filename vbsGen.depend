@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1451443498 source:c:\users\arnas\onedrive\c++\vbs writer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<shlobj.h>
+
+1451478318 source:c:\users\arnas\onedrive\c++\projects\vbsgen\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<shlobj.h>
+
